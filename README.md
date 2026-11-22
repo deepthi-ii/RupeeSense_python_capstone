@@ -1,4 +1,5 @@
 # RupeeSense — Python Edition
+https://rupee-sense-mocha.vercel.app/
 
 RupeeSense is a personal finance and shared-expenses website. The backend is written in **Python using Flask**. The existing RupeeSense page design is retained in HTML templates and CSS.
 
